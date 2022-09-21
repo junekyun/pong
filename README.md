@@ -4,5 +4,5 @@
 
 ### Change Log
 
-#### 9/17/2022 Add a two player version
-#### ?/?/? Add a single player Pong
+1. 9/17/2022 Add a two player version
+1. ?/?/? Add a single player Pong
